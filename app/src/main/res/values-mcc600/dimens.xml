@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_non">35sp</dimen>
+    <dimen name="text_top">65sp</dimen>
+    <dimen name="text_btom">75sp</dimen>
+</resources>
